@@ -47,7 +47,7 @@ You can use `-h ` to display the help menu
 $ ./mvqb -h
 ```
 
-An example of computing the xxx for our provided example graph '’Example.g‘ is as follows
+An example of computing the maximum (α,β)-quasi biclique for our provided example graph '’Example.g‘ is as follows
 
 ```
 $ ./mvqb -f "Example.g" -u 2 -v 2 -a 0.7 -b 0.7
