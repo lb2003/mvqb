@@ -145,7 +145,7 @@ int main(int argc, char** argv) {
     MVQBPack st(cur.E, alpha, beta, cur.bipartite, cur.graphSize, theta_l, theta_r);
     MVQBP_SUB(st, cur.E);
     time_t s2 = clock();
-    cout<<"---------------"<<filepath<<" a,b,lb_L,lb_R,r: "<<alpha<<" "<<beta<<" "<<theta_l<<" "<<theta_r<<" "<<"--------------"<<endl 
+    cout<<"---------------"<<filepath<<" a,b,lb_L,lb_R: "<<alpha<<" "<<beta<<" "<<theta_l<<" "<<theta_r<<" "<<"--------------"<<endl 
     << debug.validSize() << endl
     <<"Running Time: "<<((double)(s2-s1)/CLOCKS_PER_SEC)<<" sec"<<endl;
 
