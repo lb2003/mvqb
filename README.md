@@ -20,7 +20,7 @@ The datasets used in our paper can be found from the links below.
 
 To provide a clearer understanding of the data format, we present a simple illustrate example as shown below.
 
-Note that the three integers in the first line means the number of vertices _n_, the size of _L_ and the number of edges _m_. For the next _m_ lines, the first number is the vertice _i_, and the next numbers are the vertice connect to _i_.
+Note that the three integers in the first line means the number of vertices _n_, the size of _L_ and the number of edges _m_. For the next _m_ lines, the first number is the vertice _i_, and the next numbers are the vertices connect to _i_.
 
 ```
 11 5 16
