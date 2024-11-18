@@ -55,7 +55,7 @@ $ ./mvqb -f "Example.g" -u 2 -v 2 -a 0.7 -b 0.7
 
 ### Result Analysis
 
-If you are using our provided example abouve, then you will see the folloing outputs in mvqb.txt.
+If you are using our provided example abouve, then you will see the folloing outputs in mvqb.txt. (other files might be a little different)
 
 ```
 ---------------Example.g a,b,lb_L,lb_R: 0.7 0.7 2 2 --------------
